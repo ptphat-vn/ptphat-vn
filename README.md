@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **FPT University**
 
-- 🌱 I’m currently learning **ReactJS, Tailwind, Vue.js**
+- 🌱 I’m currently learning **ReactJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ptphat-vn](https://github.com/ptphat-vn)
 
