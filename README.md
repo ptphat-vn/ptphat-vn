@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phat</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-- 🔭 I’m currently stydying on **FPT University**
+- 🔭 I’m currently studying on **FPT University**
 
 - 🌱 I’m currently learning **ReactJS, Tailwind, Vue.js**
 
