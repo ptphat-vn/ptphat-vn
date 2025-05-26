@@ -29,6 +29,7 @@ Hi there! I'm a passionate Frontend Developer focused on creating beautiful and 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptphat-vn&show_icons=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptphat-vn&layout=compact&theme=github_dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ptphat-vn&theme=radical&hide_border=false" />
 </div>
 
 ## 🤝 Connect With Me
