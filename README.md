@@ -33,15 +33,6 @@ I specialize in **React** for frontend and **NestJS** for building robust, secur
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://ghstats.dev/api?username=ptphat-vn&show_icons=true&theme=dark" />
-  <img height="180em" src="https://ghstats.dev/api/top-langs/?username=ptphat-vn&layout=compact&theme=dark" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=ptphat-vn&theme=dark&hide_border=true" />
-</div>
-
-
 
 ## 🤝 Connect With Me
 
