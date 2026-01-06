@@ -36,10 +36,12 @@ I specialize in **React** for frontend and **NestJS** for building robust, secur
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptphat-vn&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptphat-vn&layout=compact&theme=github_dark" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ptphat-vn&theme=radical&hide_border=false" />
+  <img height="180em" src="https://ghstats.dev/api?username=ptphat-vn&show_icons=true&theme=dark" />
+  <img height="180em" src="https://ghstats.dev/api/top-langs/?username=ptphat-vn&layout=compact&theme=dark" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=ptphat-vn&theme=dark&hide_border=true" />
 </div>
+
+
 
 ## 🤝 Connect With Me
 
