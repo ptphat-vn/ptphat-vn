@@ -45,9 +45,13 @@ My main stack focuses on **React** for frontend and **NestJS** for secure, well-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phatpt-vn/)
 
 ---
-
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=ptphat-vn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ptphat-vn&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ptphat-vn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 📈 GitHub Activity
 
+---
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ptphat-vn&theme=github-dark&hide_border=true)](https://github.com/ptphat-vn)
 
 <div align="center">
