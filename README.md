@@ -43,6 +43,7 @@ My main stack focuses on **React** for frontend and **NestJS** for secure, well-
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanphatphan091@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phatpt-vn/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=portfolio&logoColor=white)](https://phatpt-portfolio.vercel.app/)
 
 ---
 # 📊GitHub Stats :
